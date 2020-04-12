@@ -1,10 +1,10 @@
 ## Espresso-BrowserStack-AppAutomate-Parallel 
 
-[Espresso](https://developer.android.com/training/testing/espresso)Integration with Browserstack
+[Espresso](https://developer.android.com/training/testing/espresso) Integration with Browserstack
 
 ![BrowserStack Logo](https://d98b8t1nnulk5.cloudfront.net/production/images/layout/logo-header.png?1469004780)
 
-Running and Controlling and Parallel Test on BrowserStack App-Automate Frameworks (Espresso, XCUITest, EarlGrey))
+Running and Controlling and Parallel Test on BrowserStack App-Automate Frameworks ([Espresso](https://github.com/RathilVasani/Bstack-AppAutomate-Parallel/tree/master/espresso), [XCUITest](https://github.com/RathilVasani/Bstack-AppAutomate-Parallel/tree/master/xcuitest),[EarlGrey](https://github.com/RathilVasani/Bstack-AppAutomate-Parallel/tree/master/earlgrey))
 
 ## Setup
 
