@@ -16,7 +16,7 @@ Running and Controlling and Parallel Test on BrowserStack App-Automate Framework
 
 ## Run Test
 
-- To run test  execute `python earlgrey_runner.py <os-device.json> <app-url/CustomID> <test_url/CustomID>`
+- To run test  execute `python earlgrey_runner.py <os-device.json> <app-url/CustomID>`
 
 ## Notes
 * You can view your test results on the [BrowserStack App-Automate dashboard](https://app-automate.browserstack.com/)
