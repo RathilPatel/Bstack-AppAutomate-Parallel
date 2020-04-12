@@ -1,6 +1,6 @@
 ## XCUITest-BrowserStack-AppAutomate-Parallel
 
-[XCUITest]()https://developer.apple.com/documentation/xctest Integration with Browserstack
+[XCUITest](https://developer.apple.com/documentation/xctest) Integration with Browserstack
 
 ![BrowserStack Logo](https://d98b8t1nnulk5.cloudfront.net/production/images/layout/logo-header.png?1469004780)
 
@@ -10,7 +10,7 @@ Running and Controlling and Parallel Test on BrowserStack App-Automate Framework
 
 - Clone the repo
 - Python setup
-- Upload App and Test App on [BrowserStack]()
+- Upload App and Test App on [BrowserStack](https://www.browserstack.com/app-automate/rest-api?framework=xcuitest)
 - Update `xcuitest_runner.py` with your [BrowserStack Username and Access Key](https://www.browserstack.com/accounts/settings)
 - To generate lastest `device.json` run [device-list Generator](https://github.com/RathilVasani/Bstack-AppAutomate-Parallel)
 
