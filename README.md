@@ -2,7 +2,9 @@
 
 ![BrowserStack Logo](https://d98b8t1nnulk5.cloudfront.net/production/images/layout/logo-header.png?1469004780)
 
-Running and Controlling and Parallel Test on BrowserStack App-Automate Frameworks ([Espresso](https://github.com/RathilVasani/Bstack-AppAutomate-Parallel/tree/master/espresso), [XCUITest](https://github.com/RathilVasani/Bstack-AppAutomate-Parallel/tree/master/xcuitest),[EarlGrey](https://github.com/RathilVasani/Bstack-AppAutomate-Parallel/tree/master/earlgrey))
+This will help you do to run 1 App on multiple devices in parallel with anyone of the Frameworks you working with([Espresso](https://github.com/RathilVasani/Bstack-AppAutomate-Parallel/tree/master/espresso), [XCUITest](https://github.com/RathilVasani/Bstack-AppAutomate-Parallel/tree/master/xcuitest),[EarlGrey](https://github.com/RathilVasani/Bstack-AppAutomate-Parallel/tree/master/earlgrey))
+
+To generate the list of latest available Android and iOS Real mobile devices on BrowserStack
 
 ## Setup
 
